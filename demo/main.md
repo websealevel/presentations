@@ -3,6 +3,7 @@
 Une présentation full Markdown, servie par [revealjs](https://revealjs.com/)
 
 ---
+
 Slide A
 
 Code avec suite de mises en avant
