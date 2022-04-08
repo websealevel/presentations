@@ -70,7 +70,7 @@ Vous verrez la liste de vos présentations, cliquez et voilà !
 
 ## Plusieurs présentations
 
-Pour produire une autre présentation vous n'avez qu'à creer un fichier dans presentations, par exemple presentation2.md. Puis le servir pour tester
+Pour produire une autre présentation vous n'avez qu'à creer un fichier dans presentations, par exemple `presentation2.md`. Puis le servir pour tester
 
 ~~~bash
 npm-run reveal-md presentation/ -w
@@ -86,8 +86,21 @@ npm-run reveal-md presentations/ --static docs/ --static-dirs=presentations/atta
 
 Poussez et allez visitez votre page Github associée au dépot. Vous devriez voir une liste de vos présentations
 
-- presentation1.html
-- presentation2.html
+- `presentation1.html`
+- `presentation2.html`
+
+
+## Gestion de présentations divisées en plusieurs fichiers Markdown
+
+A venir
+
+## Customisation du theme
+
+A venir
+
+## Automatisons tout ça
+
+A venir
 
 ## Ressources
 
