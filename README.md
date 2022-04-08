@@ -18,7 +18,7 @@ A la racine du dépot creer cette architecture de dossiers
 mkdir -p content presentations/attachments theme
 ~~~
 
-- `presentations` : markdown files. Contient les slides maitres d'une presentation
+- `presentations` : markdown files. Contient toutes les presentations
  - `attachments` : media (images, audio, video)
 - `theme` : custom theme
 - `docs` : the generated static site (avec github actions). Servira de DocumentRoot à GithubPages.
