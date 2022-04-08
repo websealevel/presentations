@@ -70,21 +70,24 @@ Vous verrez la liste de vos présentations, cliquez et voilà !
 
 ## Plusieurs présentations
 
-Pour produire une autre présentation vous n'avez qu'à recreer une architecture avec
+Pour produire une autre présentation vous n'avez qu'à creer un fichier dans presentations, par exemple presentation2.md. Puis le servir pour tester
 
 ~~~bash
-npm-run reveal-md presentation-2/ -w
+npm-run reveal-md presentation/ -w
 ~~~
 
 Ecrivez vos slides en markdown.
 
-Générez le contenu en static avec
+Générez le contenu en static avec la même commande
 
 ~~~bash
-npm-run reveal-md presentation-2/ --static docs/ --static-dirs=presentation-2/attachments
+npm-run reveal-md presentations/ --static docs/ --static-dirs=presentations/attachments
 ~~~
 
-Poussez et allez visitez votre page Github associée au dépot.
+Poussez et allez visitez votre page Github associée au dépot. Vous devriez voir une liste de vos présentations
+
+- presentation1.html
+- presentation2.html
 
 ## Ressources
 
