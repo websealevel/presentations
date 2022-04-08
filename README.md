@@ -27,7 +27,7 @@ On sert ici tout le contenu de `presentation-1` à présent visible sur `localho
 ## Générer le contenu en static
 
 ~~~bash
-npm-run reveal-md presentation-1/ --static docs/presentation-1 --static-dirs=presentation-1/attachments
+npm-run reveal-md presentation-1/ --static docs/ --static-dirs=presentation-1/attachments
 ~~~
 
 On retrouvera tout notre contenu static dans `docs/presentation-1`. Il n'y a plus qu'à lancer le `index.html` dans votre navigateur. Pas besoin de serveur le projet via un serveur local !
