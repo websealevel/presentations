@@ -15,7 +15,7 @@ Un workflow pour generer des presentations automatiquement depuis des fichiers m
 A la racine du dépot creer cette architecture de dossiers
 
 ~~~bash
-mkdir -p content presentation-1/attachments theme
+mkdir -p content presentations/attachments theme
 ~~~
 
 - `presentations` : markdown files. Contient les slides maitres d'une presentation
