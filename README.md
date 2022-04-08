@@ -21,7 +21,7 @@ mkdir -p presentations presentations/attachments theme
 - `presentations` : markdown files. Contient toutes les presentations
  - `attachments` : media (images, audio, video)
 - `theme` : custom theme
-- `docs` : the generated static site (avec github actions). Servira de DocumentRoot à GithubPages.
+- `docs` : la presentation générée en site static (HTML/CSS/JS). Servira de DocumentRoot à Github Pages.
 
 ## Lancer une présentation
 
