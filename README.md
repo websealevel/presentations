@@ -62,7 +62,7 @@ On retrouvera tout notre contenu static dans `docs`. Il n'y a plus qu'à lancer 
 
 Pousser tout ça sur le dépot remote en prenant garde d'avoir créer un `.gitignore` ignorant les `node_modules` avant.
 
-Sur Github, aller sur votre dépot. `Settings/Page` puis choisissez /docs comme Source sur la branche main.
+Aller sur votre dépot sur Github. Dans `Settings/Page` choisissez `/docs` comme *Source* sur la branche `main`.
 
 Sauvegarder et rendez-vous à l'url de votre GithubPage.
 
